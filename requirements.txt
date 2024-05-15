@@ -11,7 +11,7 @@ optax
 rich
 ruamel.yaml<0.18.0 # safe_dump is deprecated (and removed) from 0.18.0 and above
 tensorflow-cpu
-tensorflow_probability
+tensorflow_probability==0.21.0
 
 # wandb
 # moviepy # Needed for gif/video saving to wandb
